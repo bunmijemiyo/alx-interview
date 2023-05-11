@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 import random
-# import sys
+import sys
 from time import sleep
 import datetime
 
